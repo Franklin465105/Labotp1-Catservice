@@ -12,7 +12,7 @@ public class ProductService
     private final List<Product> products = new ArrayList<>();
     private long nextId = 1;
 
-    public List<Product> getAllProducts()
+    public List<Product> getAll()
     {
         return products;
     }
