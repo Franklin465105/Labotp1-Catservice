@@ -40,3 +40,5 @@ At the moment, the Catalog Service does not communicate with the Order Service.
 Current Version
 
 This is Lab 1, so the service currently uses temporary in-memory storage. A database will be added in a later week.
+
+https://dbfiddle.uk/Qs5rl21J
